@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1487448065983
+Build-Jdk: 1.8.0_121
+Built-By: developer
+Bundle-Classpath: WEB-INF/classes
+Bundle-Description: Pax Web Samples
+Bundle-DocURL: http://www.ops4j.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: OPS4J Pax Web - Samples - OSGi Spring War sample
+Bundle-SymbolicName: org.ops4j.pax.web.samples.spring
+Bundle-Vendor: OPS4J - Open Participation Software for Java
+Bundle-Version: 6.1.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.ops4j.pax.web.samples.spring.controller;uses:="javax
+ .servlet.http,org.springframework.web.servlet,org.springframework.web.s
+ ervlet.mvc";version="6.1.0.SNAPSHOT"
+Import-Package: org.springframework.web.servlet;version="[3.1,4)",javax.
+ servlet.http;resolution:=optional,org.springframework.web.servlet.mvc;r
+ esolution:=optional;version="[3.1,4)",org.springframework.osgi.web.cont
+ ext.support,org.springframework.web.servlet.view;version="[3.1,4)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-2.4.0.201411031534
+Web-ContextPath: war-spring

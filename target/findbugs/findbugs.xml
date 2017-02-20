@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.0.1' threshold='medium' effort='min'><Error></Error><Project><SrcDir>/home/developer/workspace/org.ops4j.pax.web/samples/war-spring-osgi/src/main/java</SrcDir><SrcDir>/home/developer/workspace/org.ops4j.pax.web/samples/war-spring-osgi/target/generated-sources/annotations</SrcDir><SrcDir>/home/developer/workspace/org.ops4j.pax.web/samples/war-spring-osgi/src/test/java</SrcDir></Project></BugCollection>

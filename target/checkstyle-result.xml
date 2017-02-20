@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/developer/workspace/org.ops4j.pax.web/samples/war-spring-osgi/src/main/java/org/ops4j/pax/web/samples/spring/controller/HelloWorldController.java">
+</file>
+</checkstyle>

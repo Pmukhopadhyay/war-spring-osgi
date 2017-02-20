@@ -1,0 +1,43 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2017-02-19T01:31:09+05:30
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 6
+
+Apache Licensed: 6
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    src/main/java/org/ops4j/pax/web/samples/spring/controller/HelloWorldController.java
+  AL    src/main/webapp/index.jsp
+  AL    src/main/webapp/WEB-INF/web.xml
+  AL    src/main/webapp/WEB-INF/dispatcher-servlet.xml
+  AL    src/main/webapp/WEB-INF/views/helloWorld.jsp
+  AL    pom.xml
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 
